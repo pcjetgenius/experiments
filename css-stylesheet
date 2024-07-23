@@ -1,0 +1,33 @@
+:root {
+  background-color: #36413E;
+}
+
+h1 {
+  font-family: Courier;
+  font-size: 6vmin;
+  color: #ebebeb;
+  text-align: center;
+}
+
+.welcomecontainer {
+  margin-top: 20vh;
+}
+
+.welcomebuttons {
+  display: block;
+  min-width: 20%;
+  max-width: 90%;
+  border-color: #802005;
+  border-width: 0.25em;
+  font-size: 3vmin;
+  font-family: Courier;
+  color: #ebebeb;
+  padding: 0.5em;
+  background-color: #36413E;
+  cursor: pointer;
+  margin: 0.75em auto;
+}
+
+.buttoncontainer {
+  margin-top: 5%;
+}
